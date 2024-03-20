@@ -248,14 +248,13 @@ header .inner_submenu {
     width: 70%;
 }
 
-.sub_po> h2{
+.sub_po h2{
     font-size: 18px;
     padding-bottom: 5px;
     color:rgb(48, 109, 26);
-     position:unset;
 }
 
-.sub_po> h4{
+.sub_po h4{
     font-size: 13px;
     font-family: 'NanumSquareNeoLight';
     line-height: 18px;
@@ -650,7 +649,7 @@ top: 5px;
     transition-duration: 0.5s;
 }
 
-.menu> h2{
+.container> .menu> h2{
     font-size: 18px;
     padding: 15px 0 30px;
     position: absolute;
