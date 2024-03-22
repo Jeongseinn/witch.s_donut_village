@@ -649,7 +649,7 @@ top: 5px;
     transition-duration: 0.5s;
 }
 
-.container> .menu> h2{
+.container .menu h2{
     font-size: 18px;
     padding: 15px 0 30px;
     position: absolute;
